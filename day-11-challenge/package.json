@@ -1,0 +1,18 @@
+{
+  "name": "day-11-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "dependencies": {
+    "eslint": "^4.18.2",
+    "jest": "^22.4.2",
+    "superagent": "^3.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
